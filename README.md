@@ -1,4 +1,4 @@
-# Resturant-Website
+#🍽️ Restaurant-Website
 As my first step into the world of web development, I created a restaurant website from scratch using HTML, CSS, and JavaScript.
 The goal was to design a visually appealing and responsive platform that showcases food items, categories, and smooth user interactions.
 This project sparked my passion for building functional yet aesthetic web experiences.
@@ -6,7 +6,7 @@ This project sparked my passion for building functional yet aesthetic web experi
 
  🚀 Live Preview
 
-🔗 [Visit Website]( https://github.com/maidaibrar/Resturant-Website/ )
+🔗 [Visit Website]( https://github.com/maidaibrar/Restaurant-System )
 
 
 
@@ -32,7 +32,7 @@ Visual studio Code  (VS code)
 
  🧩 Features & Pages
 
-|---------------------|-----------------------------------------------------------------------------|
+
 | File Name           | Description                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
 | `index.html`        | Home page with restaurant intro and navigation.                             |
@@ -44,7 +44,7 @@ Visual studio Code  (VS code)
 | `about_us.html`     | About the restaurant, its mission, and how it works.                        |
 | `contact_us.html`   | Contact form for customers to send feedback or inquiries.                   |
 | `review.html`       | Display section for customer reviews                                        |
-|---------------------|-----------------------------------------------------------------------------|
+
 
 
  ✅ Functionalities
